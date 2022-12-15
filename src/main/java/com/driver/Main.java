@@ -11,6 +11,8 @@ public class Main {
 
         B b1 = new B();
         b1.meth();
+
+        System.out.println("Ami J tumarrr chum chum chum......");
    }
 
    
